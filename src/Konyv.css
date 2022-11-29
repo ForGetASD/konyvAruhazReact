@@ -1,0 +1,14 @@
+.konyv{
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.konyv>h3{
+    background-color: aqua;
+    padding: 8px;
+    margin: 0px;
+}
+
+.konyv>p{
+    margin: 10px;
+}
