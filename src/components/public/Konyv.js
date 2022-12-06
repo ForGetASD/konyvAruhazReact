@@ -1,4 +1,4 @@
-import './Konyv.css'
+import '../public/Konyv.css'
 
 function Konyv(props) {
     function kosarba(){

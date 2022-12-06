@@ -25,4 +25,4 @@ function Kosar(props){
     )
 }
 
-export default Kosar
+export default Kosar 
